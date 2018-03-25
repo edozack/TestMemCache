@@ -1,0 +1,7 @@
+c:\users\edo.binaf\Source\Repos\testMemCache\testMemCache\obj\Debug\testMemCache.csprojResolveAssemblyReference.cache
+c:\users\edo.binaf\Source\Repos\testMemCache\testMemCache\obj\Debug\testMemCache.csproj.CoreCompileInputs.cache
+c:\users\edo.binaf\Source\Repos\testMemCache\testMemCache\bin\Debug\testMemCache.exe.config
+c:\users\edo.binaf\Source\Repos\testMemCache\testMemCache\bin\Debug\testMemCache.exe
+c:\users\edo.binaf\Source\Repos\testMemCache\testMemCache\bin\Debug\testMemCache.pdb
+c:\users\edo.binaf\Source\Repos\testMemCache\testMemCache\obj\Debug\testMemCache.exe
+c:\users\edo.binaf\Source\Repos\testMemCache\testMemCache\obj\Debug\testMemCache.pdb
